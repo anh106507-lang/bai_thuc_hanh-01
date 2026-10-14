@@ -1,0 +1,5 @@
+input: nhập a, b, c
+output: tính chu vi, diện tích nếu là tam giác, nếu không là tam giác thì đưa ra thông báo
+method:
+- kiểm tra 3 cạnh có tạo thành tam giác không, nếu có thì tính chu vi, diện tích
+- nếu không thì đưa ra thông báo " không là tam giác"
